@@ -1,4 +1,4 @@
-👋 Hi, I’m @meghanakurapati123!  
+👋 Hi, I’m @meghanakurapati!  
 - 👀 I’m interested in web development, UI/UX design, and creating engaging digital experiences.  
 - 🌱 I’m currently learning React and advanced JavaScript to build dynamic web applications.  
 - 💞️ I’m looking to collaborate on projects that involve front-end development, open-source contributions, and innovative web solutions.  
